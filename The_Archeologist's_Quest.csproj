@@ -319,8 +319,10 @@
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
     <Compile Include="Assets\Scripts\Unit.cs" />
+    <Compile Include="Assets\Scripts\UnitCombat.cs" />
     <Compile Include="Assets\Scripts\VillMelee.cs" />
     <Compile Include="Assets\Scripts\VillRange.cs" />
+    <Compile Include="Assets\Scripts\ZoomBehavior.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
